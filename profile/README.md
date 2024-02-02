@@ -1,5 +1,6 @@
 # Tech BoyZ IT
-
+   <a href="https://t.me/eventitechmilano" target="_blank"><img height="30" src=" https://raw.githubusercontent.com/Tech-BoyZ-IT/.github/main/profile/.images/telegram.png?raw=true"></a>&nbsp;&nbsp;
+   
 Welcome to the GitHub organization for Tech-BoyZ-IT!
 
 ## About Us
